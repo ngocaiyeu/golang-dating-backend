@@ -1,0 +1,5 @@
+development:
+  dialect: postgres
+  datasource: host=localhost port=5432 user=hungdev password=admin dbname=lienquan sslmode=disable
+  dir: migrations
+  table: migrations

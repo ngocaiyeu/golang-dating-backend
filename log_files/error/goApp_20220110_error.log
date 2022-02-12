@@ -1,0 +1,25 @@
+time="2022-01-10T10:19:25.892472517+07:00" level=error msg="missing destination name age in *model.User" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=87
+time="2022-01-10T10:19:45.879964047+07:00" level=error msg="missing destination name age in *model.User" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=71
+time="2022-01-10T10:25:26.111058532+07:00" level=error msg="scannable dest type slice with >1 columns (29) in result" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=87
+time="2022-01-10T10:25:30.209870306+07:00" level=error msg="scannable dest type slice with >1 columns (29) in result" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=87
+time="2022-01-10T10:26:21.040818593+07:00" level=error msg="scannable dest type slice with >1 columns (29) in result" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
+time="2022-01-10T10:26:23.658741755+07:00" level=error msg="scannable dest type slice with >1 columns (29) in result" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
+time="2022-01-10T13:15:30.42207675+07:00" level=error msg="missing destination name user_id in *[]model.AllUser" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
+time="2022-01-10T13:16:05.392235793+07:00" level=error msg="missing destination name phone in *[]model.AllUser" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
+time="2022-01-10T13:17:05.974811657+07:00" level=error msg="missing destination name phone in *[]model.AllUser" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
+time="2022-01-10T17:41:35.52893694+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-10T17:41:38.431530453+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-10T17:41:41.478997905+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-10T17:41:45.103336832+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-10T17:41:48.468142316+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-10T17:41:51.862109145+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-10T17:42:00.43521404+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-10T22:21:21.311344751+07:00" level=error msg="pq: syntax error at or near \"=\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
+time="2022-01-10T22:22:30.93837209+07:00" level=error msg="pq: syntax error at or near \"offset\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
+time="2022-01-10T22:22:53.758786258+07:00" level=error msg="pq: syntax error at or near \"=\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
+time="2022-01-10T22:25:00.774816742+07:00" level=error msg="pq: syntax error at or near \"=\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
+time="2022-01-10T22:25:02.130343638+07:00" level=error msg="pq: syntax error at or near \"=\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
+time="2022-01-10T22:25:15.532126166+07:00" level=error msg="scannable dest type slice with >1 columns (7) in result" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
+time="2022-01-10T22:25:36.220065123+07:00" level=error msg="pq: column \"start\" does not exist" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
+time="2022-01-10T22:25:45.375237469+07:00" level=error msg="pq: column \"start\" does not exist" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
+time="2022-01-10T22:26:04.492494993+07:00" level=error msg="pq: got 1 parameters but the statement requires 0" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84

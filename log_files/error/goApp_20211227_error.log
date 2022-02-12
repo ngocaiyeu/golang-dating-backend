@@ -1,0 +1,6 @@
+time="2021-12-27T09:47:11.540234468+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_user_name_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2021-12-27T11:52:19.885453099+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_user_name_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2021-12-27T12:03:37.539913785+07:00" level=error msg="missing destination name sex in *model.User" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=56
+time="2021-12-27T12:03:41.441524796+07:00" level=error msg="missing destination name sex in *model.User" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=56
+time="2021-12-27T20:14:00.073258506+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_user_name_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2021-12-27T20:16:04.358771301+07:00" level=error msg="sql: Scan error on column index 8, name \"sex\": converting NULL to string is unsupported" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=56

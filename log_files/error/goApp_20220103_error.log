@@ -1,0 +1,15 @@
+time="2022-01-03T10:58:02.701468686+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-03T11:03:59.676014693+07:00" level=error msg="missing destination name marriage in *model.User" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=56
+time="2022-01-03T11:05:25.139453609+07:00" level=error msg="missing destination name marriage in *model.User" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=56
+time="2022-01-03T11:06:40.978695443+07:00" level=error msg="missing destination name link_fb in *model.User" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=56
+time="2022-01-03T11:07:25.82850021+07:00" level=error msg="missing destination name link_is in *model.User" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=56
+time="2022-01-03T11:07:31.338657615+07:00" level=error msg="missing destination name link_is in *model.User" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=56
+time="2022-01-03T12:22:01.563906658+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-03T13:01:56.625941849+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-03T13:02:19.429197425+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-03T13:02:23.896293193+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-03T13:11:50.875005651+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-03T13:13:01.36451761+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-03T13:15:04.796021323+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-03T13:18:05.509113481+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-03T18:14:47.16577765+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37

@@ -1,0 +1,3 @@
+time="2022-01-12T19:31:15.824123545+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_phone_key\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=37
+time="2022-01-12T21:06:24.784425686+07:00" level=error msg="pq: got 2 parameters but the statement requires 1" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
+time="2022-01-12T21:06:56.309265898+07:00" level=error msg="pq: syntax error at or near \"WHERE\"" file=/home/hungdev/lienquanMess/repository/repo_impl/user_repo_impl.go line=84
